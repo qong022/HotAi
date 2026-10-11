@@ -2,7 +2,7 @@
 
 A high-performance, hybrid desktop AI workspace engineered with Python, `pywebview`, and `litellm`. Hot Ai bridges real-time cloud language models with local offline neural runtimes through a single unified glassmorphic interface.
 
-**Developer:** [Your Name] ([@qong022](https://github.com/qong022))  
+**Developer:** [Sajit Gazula] ([@qong022](https://github.com/qong022))  
 **Platform:** Windows 10 / 11 (x64)  
 **Distribution:** Standalone Single-File Binary / Windows Installer  
 
